@@ -1,1 +1,2 @@
 # Power_bi_sales_analysis_1
+I have created the 'Madhav E-commerce Sales Dashboard' project in Power BI, focusing on comprehensive sales analysis. This dynamic dashboard incorporates intuitive data visualization elements like donut and bar charts, along with slicers for location, month, and product selection. Users can efficiently track sales performance across specific locations and months, as well as identify top-performing and most profitable products. This interactive tool streamlines decision-making by providing critical insights at a glance.
